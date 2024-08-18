@@ -11,12 +11,12 @@ export default function MainHeader() {
             <nav>
                 <ul>
                     <li>
-                        <NavLink href={"news"}>
+                        <NavLink href={"/news"}>
                             News
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink href={"archive"}>
+                        <NavLink href={"/archive"}>
                             Archive
                         </NavLink>
                     </li>
